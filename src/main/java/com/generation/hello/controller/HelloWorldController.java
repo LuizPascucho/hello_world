@@ -10,7 +10,7 @@ public class HelloWorldController {
 
 	@GetMapping() // Requisições do tipo GET/Busca
 	public String hello() {
-		return "Hello World <BR> As BSMs da Generation Brazil são: <BR> Orietação ao Futuro / Responsabilidade Pessoal / Mentalidade de Crescimento / Persitência / Trabalho em Equipe / Orientação ao Detalhe / Proatividade / Comunicação";
+		return "Hello World <BR> As BSMs da Generation Brazil são: <BR> Orietação ao Futuro / Responsabilidade Pessoal / Mentalidade de Crescimento / Persitência / Trabalho em Equipe / Orientação ao Detalhe / Proatividade / Comunicação.";
 	}
 	
 }
